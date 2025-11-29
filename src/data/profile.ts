@@ -44,7 +44,7 @@ export const profileData: Profile = {
   name: "Obasi Oluwatoyosi Yetunde",
   title: "Digital Health and HCI Researcher",
   email: "obasi@dgist",
-  location: "Daejeon, Republic of Korea",
+  location: "Daegu, Republic of Korea",
   bio: "Researching signals (physiological, wearable, speech) for digital health and mental well-being | M.S. student @ KAIST ICLab",
   image: "/images/photos/profile.jpg",
   socialLinks: {
