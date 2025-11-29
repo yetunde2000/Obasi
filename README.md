@@ -1,13 +1,13 @@
-# Gyuna's Personal Homepage
+# Obasi's Personal Homepage
 
 This is my personal homepage built with Next.js and TypeScript.
 
-[gyuna.me](https://gyuna.me)
+[Obasi.me](https://Obasi.me)
 
 ## Project Structure
 
 ```
-gyuna.github.io/
+obasi.github.io/
 ├── src/
 │   ├── components/    # Reusable React components
 │   ├── data/          # Data files containing profile, research, projects, and publications information

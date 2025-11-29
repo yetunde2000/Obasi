@@ -40,7 +40,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://gn0219.github.io"
+      url: "https://obasi.github.io"
     runs-on: ubuntu-latest
     needs: build
     steps:

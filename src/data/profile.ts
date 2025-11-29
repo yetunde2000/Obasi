@@ -41,10 +41,9 @@ export interface Profile {
 }
 
 export const profileData: Profile = {
-  name: "Gyuna Kim",
-  koreanName: "김규나",
+  name: "Obasi Oluwatoyosi Yetunde",
   title: "Digital Health and HCI Researcher",
-  email: "gyuna.kim@kaist.ac.kr",
+  email: "obasi@dgist",
   location: "Daejeon, Republic of Korea",
   bio: "Researching signals (physiological, wearable, speech) for digital health and mental well-being | M.S. student @ KAIST ICLab",
   image: "/images/photos/profile.jpg",
