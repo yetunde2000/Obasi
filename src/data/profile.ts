@@ -57,17 +57,17 @@ export const profileData: Profile = {
       degree: "M.S.",
       department: "Graduate School of Data Science",
       departmentUrl: "https://gsds.kaist.ac.kr/",
-      institution: "KAIST",
-      institutionUrl: "https://www.kaist.ac.kr/",
+      institution: "DGIST",
+      institutionUrl: "https://www.dgist.ac.kr/",
       year: "2024.02 - Present"
     },
     {
-      degree: "B.S.",
-      department: "Industrial Engineering",
+      degree: "B.Sc.",
+      department: "Physics",
       departmentUrl: "https://ie.unist.ac.kr/",
-      institution: "UNIST",
-      institutionUrl: "https://www.unist.ac.kr/",
-      year: "2020.02 - 2024.02"
+      institution: "University of Ilorin (UNILORIN)",
+      institutionUrl: "https://www.unilorin.edu.ng/",
+      year: "2016.01 - 2021.12"
     }
   ],
   skills: [
