@@ -2,7 +2,7 @@
 
 This is my personal homepage built with Next.js and TypeScript.
 
-[Obasi.me](https://Obasi.me)
+[Obasi.me](https://yetunde2000.github.io/)
 
 ## Project Structure
 

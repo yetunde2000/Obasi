@@ -48,18 +48,18 @@ export const profileData: Profile = {
   bio: "Researching signals (physiological, wearable, speech) for digital health and mental well-being | M.S. student @ KAIST ICLab",
   image: "/images/photos/profile.jpg",
   socialLinks: {
-    github: "https://github.com/gn0219",
+    github: "https://github.com/yetunde2000",
     linkedin: "https://www.linkedin.com/in/gyuna/",
-    scholar: "https://scholar.google.com/citations?user=YOUR_ID"
+    //scholar: "https://scholar.google.com/citations?user=YOUR_ID"
   },
   education: [
     {
-      degree: "M.S.",
+      degree: "M.Sc.",
       department: "Graduate School of Data Science",
       departmentUrl: "https://gsds.kaist.ac.kr/",
       institution: "DGIST",
       institutionUrl: "https://www.dgist.ac.kr/",
-      year: "2024.02 - Present"
+      year: "2023.02 - 2025.08"
     },
     {
       degree: "B.Sc.",
@@ -70,7 +70,7 @@ export const profileData: Profile = {
       year: "2016.01 - 2021.12"
     }
   ],
-  skills: [
+  skills: [ "Python", "R", "MATLAB", "SQL", "Tableau", "TensorFlow", "PyTorch"
   ],
   about: `I am a master's student at [KAIST ICLab](https://ic.kaist.ac.kr/, color=blue), advised by Prof. Uichin Lee.
   My research spans various areas of digital health — from modeling human states using multimodal data, to designing evaluative tools.
