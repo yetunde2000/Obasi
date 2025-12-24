@@ -49,7 +49,7 @@ export const profileData: Profile = {
   image: "/images/photos/profile_yetty.jpeg",
   socialLinks: {
     github: "https://github.com/yetunde2000",
-    linkedin: "https://www.linkedin.com/in/gyuna/",
+    linkedin: "https://www.linkedin.com/in/yetunde-1996my/",
     //scholar: "https://scholar.google.com/citations?user=YOUR_ID"
   },
   education: [
