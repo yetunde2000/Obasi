@@ -37,7 +37,7 @@ export const photosData: Photo[] = [
     comment: '2025 | CHI Conference in Yokohama 🌸'
   },
   {
-    src: '/images/photos/photo9.jpg',
-    comment: '2025 | K-DS Conference in Daegu 🍂'
+    src: '/images/photos/profile_yetty.jpeg',
+    comment: '2025 |Graduation 🍂'
   }  
 ]; 
