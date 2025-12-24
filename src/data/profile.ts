@@ -45,8 +45,8 @@ export const profileData: Profile = {
   title: "Virtual Reality, and Deep learning applications in microsurgery Researcher",
   email: "olaopin_5@dgist.ac.kr",
   location: "Daegu, Republic of Korea",
-  bio: "Researching signals (physiological, wearable, speech) for digital health and mental well-being | Post Masters Researcher @ DGIST/ Robotic and Mechatronics Engineering",
-  image: "/images/photos/profile.jpg",
+  bio: "Post Masters Researcher @ DGIST/ Robotic and Mechatronics Engineering",
+  image: "/images/photos/profile_yetty.jpeg",
   socialLinks: {
     github: "https://github.com/yetunde2000",
     linkedin: "https://www.linkedin.com/in/gyuna/",
