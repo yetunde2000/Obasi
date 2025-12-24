@@ -41,7 +41,7 @@ export interface Profile {
 }
 
 export const profileData: Profile = {
-  name: "Obasi Oluwatoyosi Yetunde",
+  name: "Obasi Yetunde Oluwatoyosi",
   title: "Researcher in Virtual Reality and Deep Learning for Microsurgical Applications",
   email: "olaopin_5@dgist.ac.kr",
   location: "Daegu, Republic of Korea",
