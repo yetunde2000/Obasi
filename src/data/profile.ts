@@ -72,11 +72,13 @@ export const profileData: Profile = {
   ],
   skills: [ "Python", "Solidworks", "Unity", "Isaac sim", "Latex", "LabVIEW"
   ],
-  about: `I am a Post master's student at [KAIST ICLab](https://ic.kaist.ac.kr/, color=blue), advised by Prof. Uichin Lee.
-  My research spans various areas of digital health — from modeling human states using multimodal data, to designing evaluative tools.
-  While the specific topics differ, they all share a common goal: leveraging everyday data and technology to support better health outcomes.
-  Ultimately, I aim to help build systems that make digital health support more effective, interpretable, and adaptable across different contexts.
+  about: `I am a  post-master’s researcher  at [DGIST IBOM](https://ibom.dgist.ac.kr/, color=blue), advised by Prof. Cheol Songin the Department of Robotics and Mechatronics Engineering. 
+My research focuses on enhancing VR tracking accuracy through sensor fusion and learning-based signal processing, 
+utilizing models such as the Transformer and Time2Vec. I am particularly interested in measurement-driven approaches that improve the robustness and precision of immersive systems for fine-scale manipulation tasks.
 `,
+
+
+
   interests: {
     "AI/ML": [
       "Virtual Reality",
@@ -85,19 +87,17 @@ export const profileData: Profile = {
       "Interaction Design"
     ],
     "HCI": [
-      "Visual Analytics",
-      "Interactive Systems"
     ]
   },
   relatedWebsite: {
-    title: "ICLab in KAIST",
+    title: "IBOM in DGIST",
     url: "https://kaist-iclab.github.io"
   },
   lab: {
-    name: "KAIST ICLab",
+    name: "DGIST IBOM",
     fullName: "IBOM Laboratory",
-    url: "https://ic.kaist.ac.kr/",
-    advisor: "Prof. Uichin Lee"
+    url: "https://ibom.dgist.ac.kr/",
+    advisor: "Prof. Cheol Song"
   },
   cvUrl: "/gyuna_cv_2025_4.pdf"
 }; 
