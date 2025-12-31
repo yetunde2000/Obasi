@@ -73,9 +73,8 @@ export const profileData: Profile = {
   skills: [ "Python", "Solidworks", "Unity", "Isaac sim", "Latex", "LabVIEW"
   ],
   about: `I am a  post-master’s researcher  at [DGIST IROM](https://ibom.dgist.ac.kr/, color=blue), in the Department of Robotics and Mechatronics Engineering. 
-My research focuses on enhancing VR tracking accuracy through sensor fusion and learning-based signal processing, 
-utilizing models such as the Transformer and Time2Vec. I am particularly interested in measurement-driven approaches that improve the robustness and precision of immersive systems for fine-scale manipulation tasks.
-`,
+My work explores measurement-driven methods for improving VR tracking accuracy, combining sensor fusion with learning-based signal processing using models such as Transformers and Time2Vec.
+I am interested in building robust and precise immersive systems for fine-scale manipulation tasks.`,
 
 
 
