@@ -116,7 +116,7 @@ const Home: NextPage = () => {
 
   const copyEmailToClipboard = async () => {
     try {
-      await navigator.clipboard.writeText('gyuna.kim@kaist.ac.kr');
+      await navigator.clipboard.writeText('olaopin_5@dgist.ac.kr');
       setShowCopySuccess(true);
       setTimeout(() => setShowCopySuccess(false), 2000);
     } catch (err) {
@@ -944,7 +944,7 @@ const Home: NextPage = () => {
 
         {/* Footer */}
         <footer className="mt-16 pb-8 text-center text-gray-500">
-          <p>Copyright © 2025 Gyuna Kim. All rights reserved. | Last updated on September 11, 2025.</p>
+          <p>Copyright © 2025 AIM. All rights reserved. | Last updated on December 11, 2025.</p>
         </footer>
       </main>
     </div>
