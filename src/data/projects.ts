@@ -70,14 +70,7 @@ export const projectsData: ProjectsData = {
       status: "completed",
       // image: "/images/projects/multi_agent_coaching.png"
     },
-    // {
-    //   title: "Enhancing Signal Quality Indices for Real-World PPG Signals",
-    //   description: "Improving the reliability of physiological data through real-world PPG signal quality assessment",
-    //   startDate: "2025-03",
-    //   role: "Project Lead",
-    //   technologies: ["Python", "PyTorch", "Signal Processing"],
-    //   image: "/images/projects/ppg.png",
-    // },
+   
     {
       title: "Time-Series Learning for Real and Synthetic VR Motion Data",
       description:
@@ -115,6 +108,5 @@ export const projectsData: ProjectsData = {
     
     
   ],
-  past: [
-  ]
+  
 }; 
