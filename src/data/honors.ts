@@ -15,4 +15,9 @@ export const honorsData: Honor[] = [
     title: "Lotte Foundation Scholarship Award",
     organization: "Lotte Foundation"
   },
+  {
+    year: "2021",
+    title: "Most Vibrant Student Award",
+    organization: "Nigerian Association of Physics Students (NAPS), University of Ilorin Chapter"
+  },
 ]; 
