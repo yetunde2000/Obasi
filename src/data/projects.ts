@@ -113,12 +113,12 @@ export const projectsData: ProjectsData = {
       
     },
     {
-      title: "Interactive ",
-      description: " flexibility.",
-      startDate: "20",
-      endDate: "20",
-      role: "Lead",
-      technologies: ["Figma"],
+      title: "",
+      description: "",
+      startDate: "",
+      endDate: "",
+      role: "",
+      technologies: [""],
       status: "completed",
       //image: "/images/projects/report.png",
    },
