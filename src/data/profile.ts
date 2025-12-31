@@ -40,12 +40,13 @@ export interface Profile {
   cvUrl: string;
 }
 
+
 export const profileData: Profile = {
   name: "Obasi Yetunde Oluwatoyosi",
-  title: "Researcher in Virtual Reality and Deep Learning for Microsurgical Applications",
+  title: "Improving VR Tracking with AI & Sensor Fusion",
   email: "olaopin_5@dgist.ac.kr",
   location: "Daegu, Republic of Korea",
-  bio: "Post Masters Researcher @ DGIST/ Robotic and Mechatronics Engineering",
+  bio: "Post-Master’s Researcher, DGIST IROM",
   image: "/images/photos/profile_yetty.jpeg",
   socialLinks: {
     github: "https://github.com/yetunde2000",
