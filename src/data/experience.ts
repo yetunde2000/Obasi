@@ -44,13 +44,8 @@ export const experienceData: Experience[] = [
     experiences: [
 
       {
-        year: "Nov 2022 – Oct 2023",
-        title: "National Youth Service Corps (NYSC); Physics Tutor",
-        institution: "BenGee Model College, Agege, Lagos State, Nigeria"
-      },
-      {
         year: "Nov 2022 – April 2023",
-        title: "Operation Feed; Volunteer Mentor",
+        title: "Operation Feed; Volunteer ",
         institution: "Inspired Smiles Foundation, Lagos, Nigeria"
       }
     ]
