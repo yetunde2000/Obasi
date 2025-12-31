@@ -112,16 +112,7 @@ export const projectsData: ProjectsData = {
       //image: "/images/projects/regulation.png",
       
     },
-    {
-      title: "Interactive Reporting System for Digital Health Data",
-      description: "Designing an interactive reporting system that helps evaluators interpret and explore digital health data with clarity and flexibility.",
-      startDate: "2024-08",
-      endDate: "2025-05",
-      role: "Design and Research Lead",
-      technologies: ["Figma", "Visualization"],
-      status: "completed",
-      image: "/images/projects/report.png",
-    },
+    
     
   ],
   past: [
