@@ -56,7 +56,7 @@ export const profileData: Profile = {
     {
       degree: "M.Sc.",
       department: "Artificial Intelligence",
-      departmentUrl: "https://gsds.kaist.ac.kr/",
+      departmentUrl: "https://www.dgist.ac.kr/en_ai/sub01_01.do;jsessionid=86A2C5E4DD50439893B91672A19E83AB",
       institution: "DGIST",
       institutionUrl: "https://www.dgist.ac.kr/",
       year: "2023.02 - 2025.08"
@@ -64,7 +64,7 @@ export const profileData: Profile = {
     {
       degree: "B.Sc.",
       department: "Physics",
-      departmentUrl: "https://ie.unist.ac.kr/",
+      departmentUrl: "https://physics.physicalsciences.unilorin.edu.ng/",
       institution: "University of Ilorin (UNILORIN)",
       institutionUrl: "https://www.unilorin.edu.ng/",
       year: "2016.01 - 2021.10"
@@ -72,8 +72,9 @@ export const profileData: Profile = {
   ],
   skills: [ "Python", "Solidworks", "Unity", "Isaac sim", "Latex", "LabVIEW"
   ],
-  about: `I am a post-master’s researcher at [DGIST](https://sites.google.com/view/dgist-ibom), in the Department of Robotics and Mechatronics Engineering. 
+  about: `I am a  post-master’s researcher  at [DGIS](https://sites.google.com/view/dgist-ibom), in the Department of Robotics and Mechatronics Engineering. 
 My work focuses on Virtual Reality and Mixed Reality, where I explore human–computer interaction through immersive and interactive systems. I have experience designing and implementing AI-driven systems, with a strong background in deep learning and machine learning applied to real-world research problems.
+`,
 
 
 
