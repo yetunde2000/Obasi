@@ -176,7 +176,7 @@ const Home: NextPage = () => {
             <nav className="flex items-center">
               {/* Navigation buttons - only visible on md and larger screens */}
               <div className="hidden md:flex items-center space-x-8 mr-4">
-                {['about me', 'projects', 'experience'].map((section) => ( /*, 'etc', 'photos' */
+                {['about me', 'projects', 'experience', 'news', 'cv'].map((section) => ( /*, 'etc', 'photos' */
                   <button
                     key={section}
                     onClick={() => scrollToSection(section.replace(' ', ''))}
