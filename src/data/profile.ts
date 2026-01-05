@@ -59,7 +59,8 @@ export const profileData: Profile = {
       departmentUrl: "https://www.dgist.ac.kr/en_ai/sub01_01.do;jsessionid=86A2C5E4DD50439893B91672A19E83AB",
       institution: "DGIST",
       institutionUrl: "https://www.dgist.ac.kr/",
-      year: "2023.02 - 2025.08"
+      year: "2023.02 - 2025.08",
+      
     },
     {
       degree: "B.Sc.",
