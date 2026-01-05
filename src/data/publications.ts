@@ -20,7 +20,7 @@ export const publicationsData: PublicationsData = {
   publications: [
      {
       title: "A Novel Framework for Enhanced Flat Object Manipulation through Reinforcement Learning and Mixed Reality Integration",
-      authors: ["John Prada", "Obasi Yetunde", "Cheol Song", ],
+      authors: ["John Prada", "Obasi Yetunde Oluwatoyosi", "Cheol Song", ],
       venue: "DBpia",
       year: "2023-11-24",
       type: "Conference",

@@ -72,10 +72,8 @@ export const profileData: Profile = {
   ],
   skills: [ "Python", "Solidworks", "Unity", "Isaac sim", "Latex", "LabVIEW"
   ],
-  about: `I am a  post-master’s researcher  at [DGIST IROM](https://ibom.dgist.ac.kr/, color=blue), in the Department of Robotics and Mechatronics Engineering. 
-My research focuses on improving VR tracking accuracy through sensor fusion and learning-based signal processing, with an emphasis on Transformer-based models and Time2Vec representations.
-I am particularly interested in measurement-driven approaches that enhance the robustness and precision of immersive systems for fine-scale manipulation and control.
-`,
+  about: `I am a post-master’s researcher at [DGIST](https://sites.google.com/view/dgist-ibom), in the Department of Robotics and Mechatronics Engineering. 
+My work focuses on Virtual Reality and Mixed Reality, where I explore human–computer interaction through immersive and interactive systems. I have experience designing and implementing AI-driven systems, with a strong background in deep learning and machine learning applied to real-world research problems.
 
 
 
@@ -91,12 +89,12 @@ I am particularly interested in measurement-driven approaches that enhance the r
   },
   relatedWebsite: {
     title: "IROM in DGIST",
-    url: "https://kaist-iclab.github.io"
+    url: "https://sites.google.com/view/dgist-ibom"
   },
   lab: {
-    name: "DGIST IBOM",
-    fullName: "IBOM Laboratory",
-    url: "https://ibom.dgist.ac.kr/",
+    name: "DGIST IROM",
+    fullName: "IROM Laboratory",
+    url: "https://sites.google.com/view/dgist-ibom",
     advisor: "Prof. Cheol Song"
   },
   cvUrl: "/Obas Yetunde_cv.pdf"
