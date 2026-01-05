@@ -75,7 +75,7 @@ export const profileData: Profile = {
   ],
   about: `I am a  post-master’s researcher  at [DGIST-IROM](https://sites.google.com/view/dgist-ibom), in the Department of Robotics and Mechatronics Engineering. 
 My work focuses on Virtual Reality and Mixed Reality, where I explore human–computer interaction through immersive and interactive systems. I have experience designing and implementing AI-driven systems, with a strong background in deep learning and machine learning applied to real-world research problems.
-`,
+my cv can be found [here](/Obasi Yetunde_cv.pdf).`,
 
 
 
@@ -99,5 +99,5 @@ My work focuses on Virtual Reality and Mixed Reality, where I explore human–co
     url: "https://sites.google.com/view/dgist-ibom",
     advisor: "Prof. Cheol Song"
   },
-  cvUrl: "/Obas Yetunde_cv.pdf"
+  cvUrl: "/Obasi Yetunde_cv.pdf"
 }; 
