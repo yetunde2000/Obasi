@@ -22,6 +22,10 @@ export interface Profile {
     year: string;
   }[];
   skills: string[];
+  stories?: {
+    title: string;
+    url: string;
+  }[];
   about: string;
   interests: {
     "AI/ML": string[];
@@ -53,6 +57,31 @@ export const profileData: Profile = {
     //scholar: "https://scholar.google.com/citations?user=YOUR_ID"
   },
   education: [
+    {
+      degree: "M.Sc.",
+      department: "Artificial Intelligence",
+      departmentUrl: "https://www.dgist.ac.kr/en_ai/sub01_01.do;jsessionid=86A2C5E4DD50439893B91672A19E83AB",
+      institution: "DGIST",
+      institutionUrl: "https://www.dgist.ac.kr/",
+      year: "2023.02 - 2025.08",
+      
+    },
+    {
+      degree: "B.Sc.",
+      department: "Physics",
+      departmentUrl: "https://physics.physicalsciences.unilorin.edu.ng/",
+      institution: "University of Ilorin (UNILORIN)",
+      institutionUrl: "https://www.unilorin.edu.ng/",
+      year: "2016.01 - 2021.10"
+    }
+  ],
+  stories: [
+    {
+      title: "My medium Story",
+      url: "https://medium.com/@Oluwatoyosi_23"
+    }
+  ],
+  skills: [
     {
       degree: "M.Sc.",
       department: "Artificial Intelligence",
