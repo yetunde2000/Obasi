@@ -76,7 +76,7 @@ export const profileData: Profile = {
   about: `I am a  post-master’s researcher  at [DGIST-IROM](https://sites.google.com/view/dgist-ibom), in the Department of Robotics and Mechatronics Engineering. 
 My research focuses on virtual reality–based systems for microsurgical applications, where I develop deep learning–driven methods to enhance interaction accuracy, sensor reliability, and human–machine performance.
 
-my cv can be found [here](/Obasi Yetunde_cv.pdf).`,
+my cv can be found [here](/obasiyetundecv.pdf).`,
 
 
 
@@ -100,5 +100,5 @@ my cv can be found [here](/Obasi Yetunde_cv.pdf).`,
     url: "https://sites.google.com/view/dgist-ibom",
     advisor: "Prof. Cheol Song"
   },
-  cvUrl: "/Obasi Yetunde_cv.pdf"
+  cvUrl: "/obasiyetundecv.pdf"
 }; 
