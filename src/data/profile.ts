@@ -10,7 +10,7 @@ export interface Profile {
     github?: string;
     linkedin?: string;
     researchGate?: string;
-    scholar?: string;
+    Medium?: string;
     [key: string]: string | undefined;
   };
   education: {
@@ -54,7 +54,7 @@ export const profileData: Profile = {
   socialLinks: {
     github: "https://github.com/yetunde2000",
     linkedin: "https://www.linkedin.com/in/yetunde-1996my/",
-    //scholar: "https://scholar.google.com/citations?user=YOUR_ID"
+    Medium: "https://medium.com/@Oluwatoyosi_23"
   },
   education: [
     {
