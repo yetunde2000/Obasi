@@ -54,7 +54,7 @@ export const profileData: Profile = {
   socialLinks: {
     github: "https://github.com/yetunde2000",
     linkedin: "https://www.linkedin.com/in/yetunde-1996my/",
-    Medium: "https://medium.com/@Oluwatoyosi_23"
+    //Medium: "https://medium.com/@Oluwatoyosi_23"
   },
   education: [
     {
