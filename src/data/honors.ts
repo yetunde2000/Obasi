@@ -16,7 +16,7 @@ export const honorsData: Honor[] = [
     organization: "Lotte Foundation"
   },
   {
-    year: "20216-2021",
+    year: "2016-2021",
     title: "Most Vibrant Student Award",
     organization: "Nigerian Association of Physics Students (NAPS), University of Ilorin Chapter"
   },
