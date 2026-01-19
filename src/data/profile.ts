@@ -54,7 +54,7 @@ export const profileData: Profile = {
   socialLinks: {
     github: "https://github.com/yetunde2000",
     linkedin: "https://www.linkedin.com/in/yetunde-1996my/",
-    //Medium: "https://medium.com/@Oluwatoyosi_23"
+    Medium: "https://medium.com/@Oluwatoyosi_23"
   },
   education: [
     {
@@ -84,10 +84,10 @@ export const profileData: Profile = {
 
   skills: [ "Python", "Solidworks", "Unity", "Isaac sim", "Latex", "LabVIEW"
   ],
-  about: `I am a  post-master’s researcher  at [DGIST-IROM](https://sites.google.com/view/dgist-ibom), in the Department of Robotics and Mechatronics Engineering. 
-My research focuses on virtual reality–based systems for microsurgical applications, where I develop deep learning–driven methods to enhance interaction accuracy, sensor reliability, and human–machine performance.
+  about: `I am a post-master’s researcher at [DGIST-IROM](https://sites.google.com/view/dgist-ibom), in the Department of Robotics and Mechatronics Engineering. 
+My research focuses on virtual reality–based microsurgical systems, where I develop deep learning–driven approaches to improve interaction accuracy, sensor reliability, and overall human–machine performance.
 
-My cv can be found [here](/obasiyetundecv.pdf). I also write about my life and experiences on [Medium](https://medium.com/@Oluwatoyosi_23).`,
+My CV is available [here](/obasiyetundecv.pdf). I also write about my life and experiences on [Medium](https://medium.com/@Oluwatoyosi_23).`,
 
 
 
